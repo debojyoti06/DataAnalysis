@@ -6,4 +6,3 @@ There are 3 files for the pandas practice:
 3. Zip code analysis
 
 
-Changes to check in the directory
